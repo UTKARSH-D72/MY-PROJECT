@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Online Quiz</title>
+    <link rel="stylesheet" href="css.css">
+</head>
+<body>
+  
+    
+     <h1>Online Quiz</h1>
+     
+     <form id="quiz" name="quiz">
+       <p>Which of the following scoping type does JavaScript use?</p>
+       <input type="radio" name="question1" value="Sequential"> Sequential<br>
+       <input type="radio" name="question1" value="Segmental">Segmental<br>
+       <input type="radio" name="question1" value="Lexical">Lexical<br>
+       <input type="radio" name="question1"value="Literal"> Literal<br>
+     <p>
+     <p>By which javascript code is used</p>
+      
+     <input type="radio"  name="question2" value="Classes">Classes<br>
+     <input type="radio"  name="question2" value="Methods">Methods/Functions<br>
+     <input type="radio"  name="question2" value="RMI">RMI<br>
+     <input type="radio"  name="question2" value="Events">Events<br>
+       
+      <p>Which type of language is Javascript</p>
+     <input type="radio" name="question3" value="Programming">Programming<br>
+     <input type="radio"  name="question3" value="Scripting">Scripting<br>
+     <input type="radio"  name="question3" value="Markup">Markup<br>
+     <input type="radio"  name="question3" value="None of the above">None of the above<br>
+      
+     <input id="button" type="button" value="I'm finished!" onclick="check();">
+     
+     </form>
+     
+     <div id="after_submit">result</div>
+     
+     <p id="messages"></p>
+     <p id="number_correct"></p>
+    <script src="javascript.js"></script>
+        </div>
+</body>
+</html>
