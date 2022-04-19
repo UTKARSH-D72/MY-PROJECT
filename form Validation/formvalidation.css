@@ -1,0 +1,47 @@
+body{
+    background-image: url(purple-background-registration.png);
+    background-repeat: no-repeat;
+    background-size: auto;
+    text-align: center;
+    font-size: 22px;
+    color: White;
+}
+
+h1{
+    color: rgb(133, 18, 18);
+    font-size: 20px;
+    font-family: cursive;
+    text-align: center;
+}
+.form1{
+    background:rgba(0,0,0,0.6);
+    padding: 24px;
+    margin-top:0px;
+    width: 28%;
+    position: absolute;
+    left:34%;
+    border-radius: 15px;
+}
+input{
+    width: 350px;
+    height: 30px;
+    border-radius: 7px;
+    text-align: center;
+}
+input[type="text"]{
+    font-size: 18px;
+}
+input[type="email"]{
+    font-size: 18px;
+}
+input[type="submit"]{
+    font-size: 20px;
+    height: 40px;
+    background-color: #05fc05;
+
+}
+
+input[type="submit"]:hover{
+    color:white;	
+    background-color: rgb(223, 14, 14);	
+}
