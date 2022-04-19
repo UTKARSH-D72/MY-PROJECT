@@ -1,0 +1,23 @@
+.button{
+    display: inline-block;
+     padding: 15px 15px; 
+     background-color:#f7f5f5;
+     cursor: pointer;}
+
+Table,td { 
+    border:3px solid rgb(165, 86, 86);
+}
+    
+
+body{
+background-image:url(https://images.wallpaperscraft.com/image/single/calculator_glasses_cactus_215847_1366x768.jpg);
+padding-top: 80px;
+padding-left: 200px;
+}
+img{
+    
+    border-radius: 4px;
+    padding: 5px;
+    width: 200px;
+    padding-left:480px;
+}
