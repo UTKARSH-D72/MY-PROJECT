@@ -5,3 +5,4 @@
 >Online Quiz<a href="https://utkarsh-d72.github.io/MY-PROJECT/Online_Quiz/index.html" target="_blank">                     Click Me</a> <br>
 >Search Data<a href="https://utkarsh-d72.github.io/MY-PROJECT/Search Data/index.html.html" target="_blank">                     Click Me</a> <br>
 >ATM <a href="https://utkarsh-d72.github.io/MY-PROJECT/ATM_PORTAL-main/ATM.html" target="_blank">                     Click Me</a> <br>
+>STOP WATCH<a href="https://github.com/UTKARSH-D72/MY-PROJECT/blob/main/stop%20watch/index.html" target="_blank">Click Me</a><br>
