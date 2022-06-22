@@ -6,3 +6,4 @@
 >Search Data<a href="https://utkarsh-d72.github.io/MY-PROJECT/Search Data/index.html.html" target="_blank">                     Click Me</a> <br>
 >ATM <a href="https://utkarsh-d72.github.io/MY-PROJECT/ATM_PORTAL-main/ATM.html" target="_blank">                     Click Me</a> <br>
 >STOP WATCH<a href="https://utkarsh-d72.github.io/MY-PROJECT/stop watch/index.html" target="_blank">Click Me</a><br>
+>CRUD APPLICATION<a href="https://utkarsh-d72.github.io/MY-PROJECT/CRUD_Application-main/CRUD.html target="_blank">Click Me</a><br>
